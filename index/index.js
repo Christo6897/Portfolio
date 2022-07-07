@@ -156,7 +156,7 @@ $(document).ready(function () {
 
    $("#present").click(function () { 
     if (presentToggle == false){
-        $(".who p").text("At the moment I'm in highschool about to start studying abroad in Japan. As you may know I'm working as a NexTech intern. I've focused my interest more specifcally onto software and web development.");
+        $(".who p").text("At the moment, I'm in highschool about to start studying abroad in Japan. As you may know, I'm currently working as a NexTech intern. I've focused my interest more specifcally onto software and web development.");
         presentToggle = true;
         pastToggle = false;
         futureToggle = false;
