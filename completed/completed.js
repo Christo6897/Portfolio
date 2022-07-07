@@ -9,8 +9,8 @@ $(document).ready(function () {
         
     });
 
-    $("port").click(function () { 
-        window.location.href = "../index/index.html"
+    $("joseph").click(function () { 
+        window.location.href = "https://christo6897.github.io/HireMe/"
         
     });
 
