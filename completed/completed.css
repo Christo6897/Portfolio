@@ -1,0 +1,68 @@
+h6 {
+    color: white;
+    font-size: 3rem;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #464A55;
+}
+
+titles {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    font-size: 2rem;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 2%;
+    font-family: 'Sorts Mill Goudy', serif;
+    text-shadow: -1px -1px #000, -2px -2px #000, -3px -3px #000, -4px -4px #000, -5px -5px #000, -6px -6px #000, -7px -7px #000, -6px -6px #000;
+
+}
+
+previews{
+    display: flex;
+    justify-content: space-around;
+}
+
+.port {
+    width: 25vw;
+    background-color: #31343c;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.paint {
+    width: 25vw;
+    background-color: #31343c;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+card {
+    width: 25vw;
+    background-color: #31343c;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.card {
+    width: 20vw;
+    position: relative;
+    left: 10%;
+    top:30%;
+}

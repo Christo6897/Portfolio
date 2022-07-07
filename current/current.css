@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #464A55;
+}
+
+button h6 {
+    color: white;
+    font-size: 3rem;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.game {
+    margin-left: 17%;
+    margin-top: 2%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+    font-size: 5rem;
+    font-family: 'Sorts Mill Goudy', serif;
+    text-shadow: -1px -1px #000, -2px -2px #000, -3px -3px #000, -4px -4px #000, -5px -5px #000, -6px -6px #000, -7px -7px #000, -6px -6px #000;
+}
+
