@@ -1,4 +1,4 @@
-$(document).ready(function () 
+$(document).ready(function () {
     $("h6").click(function () { 
         window.location.href = "../index/index.html"
         
