@@ -223,20 +223,35 @@ text secText {
 .pin {
   position: relative;  
   border-radius: 50% 50% 50% 0;
-  border: 4px solid rgb(0, 0, 0);
   width: 20px;
   height: 20px;
   transform: rotate(-45deg);
-  left: 28.5%;
-  top: 12%;
   z-index: 9;
+}
+
+.home {
+  left: 28.5%;
+  top: 13%;
+  border: 4px solid rgb(0, 0, 0);
+}
+
+.ukraine {
+  border: 4px solid rgb(42, 103, 246);
+  left: 51%;
+  top: 12%;
+}
+
+.japan {
+  border: 4px solid rgb(246, 42, 42);
+  left: 72%;
+  top: 14%;
 }
 
 .map {
   width: 75vw;
   position: relative;
   left: 10%;
-  bottom: 15%;
+  bottom: 20%;
 }
 
 .header {
